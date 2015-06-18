@@ -1,0 +1,22 @@
+{
+  "name": "ArchAgent",
+  "version": "1.0.0",
+  "description": "installed packages will go in here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devaha/archagent.git"
+  },
+  "author": "Erik Rahm",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.2.0",
+    "grunt-contrib-imagemin": "^0.9.4",
+    "grunt-contrib-sass": "^0.9.2",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

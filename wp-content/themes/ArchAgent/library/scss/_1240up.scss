@@ -1,0 +1,57 @@
+/******************************************************************
+Site Name: Site Name
+Author: Aha! Digital Marketing + Creative
+
+Stylesheet: Super Large Monitor Stylesheet
+
+You can add some advanced styles here if you like. This kicks in
+on larger screens.
+
+******************************************************************/
+
+.average-guy{
+	width: 40% !important;
+}
+
+.big-guy{
+	width: 75% !important;
+	left: 12.5% !important;
+}
+
+
+/*********************
+CONTENT STYLES
+*********************/
+
+#content{
+
+	#home-hero{
+
+		#home-hero-cta{
+
+			h1{
+
+			}
+
+			h3{
+
+			}
+		}
+	}
+
+	#home-hero-divider{
+
+
+		#home-hero-divider-image{
+
+			img{
+				position: absolute;
+				width: 90%;
+				left: 5%;
+				top: -50px;
+			}
+		}
+	}
+
+
+}
